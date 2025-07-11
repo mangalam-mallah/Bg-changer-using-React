@@ -1,6 +1,7 @@
 import {useState} from 'react'
 
 function App() {
+  // Code By Mangalam and Dhananjay
   const [color, setColor] = useState("Olive")
   return (
     <div className='w-full h-screen duration-200'
